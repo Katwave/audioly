@@ -1,18 +1,20 @@
 {
-  "name": "audioly",
+  "name": "pack",
   "version": "1.0.0",
-  "description": "Library for audio controls, visualization, waveform and trimming/cutting",
+  "description": "",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "audio control",
-    "audio library",
-    "audio visualization",
-    "audio waveform",
-    "audio trimming/cutting"
-  ],
-  "author": "Mangoale Katlego",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katwave/audioly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Katwave/audioly/issues"
+  },
+  "homepage": "https://github.com/Katwave/audioly#readme"
 }
