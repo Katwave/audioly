@@ -22,15 +22,15 @@ audioly.fillSlider(el, {
   - thumb: boolean (optional)
   - thumbColor: string containing rgb or hex color (optional)
   - thumbWidth: string containing value in pixels. Should be "1", "2" etc, without px after the value(optional)
-  - sliderRGBColor: Object with rgb color of the slider. Example, ```
+  - sliderRGBColor: Object with rgb color of the slider. Example, (optional)
+
+```
     {
     r: "0",
     g: "0",
     b: "0",
     }
-  ```(optional)
-
-  ```
+```
 
 2. Cut slider
 
